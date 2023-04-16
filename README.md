@@ -1,1 +1,1 @@
-# artg3520_museum_exhibit
+# ARTG3520 final project: Museum exhibit
